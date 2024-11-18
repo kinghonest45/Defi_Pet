@@ -6,6 +6,8 @@ Introducing your new virtual companion: a Defi pet that you can mint (3D NFT) an
 
 ![logo](https://github.com/user-attachments/assets/657dc721-2c34-44b6-9d8b-5067ba638fa1)
 
+Deployed on Linea Sepolia: https://sepolia.lineascan.build/address/0x15a734df32e7b74ea7d16d52c65908989a327d1d
+
 ## Requirements
 
 Before you begin, you need to install the following tools:
