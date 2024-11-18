@@ -61,4 +61,3 @@ Visit your app on: `http://localhost:3000`. You can interact with your smart con
 
 ## License
 This project is licensed under the terms specified in the [LICENCE.md](LICENCE.md) file.
-
