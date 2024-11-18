@@ -1,4 +1,4 @@
-# 🐕 Defi Pet | Your true friend
+# 🐕 Defi Pet | Your digital friend
 
 ## Description
 
